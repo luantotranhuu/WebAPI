@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "huuluanAPI", "huuluan\huuluanAPI.csproj", "{5A26212F-5C7E-4868-8025-AC3A5636A72E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A26212F-5C7E-4868-8025-AC3A5636A72E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A26212F-5C7E-4868-8025-AC3A5636A72E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A26212F-5C7E-4868-8025-AC3A5636A72E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A26212F-5C7E-4868-8025-AC3A5636A72E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD36EF24-39E0-4BB5-BB0E-A37C159A2C43}
+	EndGlobalSection
+EndGlobal
